@@ -1,0 +1,20 @@
+[
+  {
+    "firstValue": 4,
+    "secondValue": 4,
+    "result": 8,
+    "data": "2025-04-14T22:33:03.932Z"
+  },
+  {
+    "firstValue": 5,
+    "secondValue": 5,
+    "result": 10,
+    "data": "2025-04-14T22:39:08.744Z"
+  },
+  {
+    "firstValue": 3,
+    "secondValue": 3,
+    "result": 6,
+    "date": "2025-04-14T22:47:41.980Z"
+  }
+]
