@@ -16,5 +16,23 @@
     "secondValue": 3,
     "result": 6,
     "date": "2025-04-14T22:47:41.980Z"
+  },
+  {
+    "firstValue": 3,
+    "secondValue": 4,
+    "result": 7,
+    "date": "2025-04-16T20:44:57.392Z"
+  },
+  {
+    "firstValue": 65,
+    "secondValue": 78,
+    "result": 143,
+    "date": "2025-04-16T20:45:09.883Z"
+  },
+  {
+    "firstValue": 9,
+    "secondValue": 9,
+    "result": 18,
+    "date": "2025-04-16T20:45:49.082Z"
   }
 ]
